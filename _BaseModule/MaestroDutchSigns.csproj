@@ -17,14 +17,14 @@
 
   <PropertyGroup>
     <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
-    <ModId>120627</ModId>
-    <Version>1.0.6.3</Version>
+    <ModId></ModId>
+    <Version>0.1.0</Version>
     <GameVersion>1.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
-    <DisplayName>German Signs (WE-Module)</DisplayName>
-    <ShortDescription>A WriteEverywhere-Module that give the ability to place, create or edit German Signs</ShortDescription>
-    <ForumLink>https://forum.paradoxplaza.com/forum/threads/german-signs-we-module.1859534</ForumLink>
-    <GitHubLink>https://github.com/UnMaestro/Maestros-CS2-GermanSigns</GitHubLink>
+    <DisplayName>Dutch Signs (WE-Module)</DisplayName>
+    <ShortDescription>A Write-Everywhere Module that give the ability to place, create or edit Dutch Signs</ShortDescription>
+    <ForumLink>https://forum.paradoxplaza.com/forum/threads/dutch-signs-we-module-early-access.1861156</ForumLink>
+    <GitHubLink>https://github.com/UnMaestro/Maestros-CS2-DutchSigns</GitHubLink>
     <YoutubeLink></YoutubeLink>
     <KofiLink></KofiLink>
     <BMACLink></BMACLink>
