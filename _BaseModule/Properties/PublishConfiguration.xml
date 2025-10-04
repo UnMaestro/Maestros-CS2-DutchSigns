@@ -1,5 +1,5 @@
 <Publish>
-  <ModId Value="" />
+  <ModId Value="121223" />
   <DisplayName Value="Dutch Signs (WE-Module)" />
   <ShortDescription Value="A Write-Everywhere Module that give the ability to place, create or edit Dutch Signs" />
   <LongDescription># Dutch Signs WE-Module for Cities: Skylines II
@@ -100,13 +100,32 @@ For copyright reasons, fonts are **not included** in this mod and must be downlo
 ## Enjoy &amp; share your feedback!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/dutch-signs-we-module-early-access.1861156" />
-  <ModVersion Value="0.1.0" />
+  <ModVersion Value="0.5.0" />
   <GameVersion Value="1.*" />
-  <ChangeLog>Initial Release</ChangeLog>
+  <ChangeLog>### Added
+- Some Highway Signs Layout's:
+    - 4 Exit Signs
+    - 2 Forward Direction Signs
+    - Distances Signs
+- Misc. Sign's:
+    - Numberplates for Highway, EuroHwy, Exitnumber, Roadnumber and Distance
+- Traffic Sign's:
+    - Designated Default Sign for Warning and Prohibit Sign's
+    - Every Priority Sign(Yield, Stop, etc.)
+    - Playstreet, Tunnel and No Overtaking Sign
+- Atlases:
+    - new Arrow Atlas with 6 new Arrow's
+    - new Background Atlas with Plates and Empty Sign's
+    - Some Symbols and Traffic Sign's
+
+### Changes
+- Layout/Atlas Expressway is now merged with Highway Sign's.
+- Image Empty Background was moved from Highway Sign's to Backgrounds</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshot_1.jpg" />
   <Screenshot Value="Screenshots\Screenshot_2.jpg" />
   <Screenshot Value="Screenshots\Screenshot_3.jpg" />
+  <Screenshot Value="Screenshots\Screenshot_4.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <Dependency Id="113261" ModVersion="" DisplayName="Highway Sign Structures" />
   <ExternalLink Type="github" Url="https://github.com/UnMaestro/Maestros-CS2-DutchSigns" />

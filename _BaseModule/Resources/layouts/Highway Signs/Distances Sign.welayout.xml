@@ -1,17 +1,17 @@
 <WELayout>
-  <self itemName="ExitSign">
+  <self itemName="DistancesSign">
     <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
-      <offsetPosition x="0" y="4.11" z="0.4" />
+      <offsetPosition x="0" y="4.45" z="0.4" />
       <offsetRotation x="-0" y="0" z="0" />
-      <scale x="3" y="2.5" z="1" />
+      <scale x="3" y="1.5" z="1" />
       <mustDraw>1</mustDraw>
       <instanceCount>-1</instanceCount>
       <arrayInstances x="1" y="1" z="1" />
       <arraySpacing x="0" y="0" z="0" />
     </transform>
-    <imageMesh atlas="MaestroDutchSigns:Highway Signs">
+    <imageMesh atlas="MaestroDutchSigns:Backgrounds">
       <mesh></mesh>
-      <image>Exit Medium</image>
+      <image>Empty Medium</image>
     </imageMesh>
     <defaultStyle>
       <color>FFFFFFFF</color>
@@ -27,19 +27,135 @@
     </defaultStyle>
   </self>
   <children>
-    <self itemName="Destination">
-      <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
-        <offsetPosition x="0" y="-0.71" z="0" />
+    <self itemName="Destination 1">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="0.559999943" y="-0.0199999958" z="0" />
         <offsetRotation x="-0" y="0" z="0" />
-        <scale x="2.5" y="0.5" z="1" />
+        <scale x="0.225" y="0.225" z="1" />
         <mustDraw>1</mustDraw>
         <instanceCount>-1</instanceCount>
         <arrayInstances x="1" y="1" z="1" />
         <arraySpacing x="0" y="0" z="0" />
       </transform>
-      <imageMesh atlas="MaestroDutchSigns:Misc">
+      <textMesh fontName="anwb_Ee">
+        <text>Haarlem</text>
+        <MaxWidthMeters>0</MaxWidthMeters>
+      </textMesh>
+      <defaultStyle>
+        <color>FFFFFFFF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+    <children>
+      <self itemName="Distances 1">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-1.07" y="-0.0299999956" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.175" y="0.175" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <textMesh fontName="anwb_Ee">
+          <text>23</text>
+          <MaxWidthMeters>0</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+  </children>
+  <children>
+    <self itemName="Destination 2">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="0.32" y="-0.409999967" z="0" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="0.225" y="0.225" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <textMesh fontName="anwb_Ee">
+        <text>Amsterdam</text>
+        <MaxWidthMeters>0</MaxWidthMeters>
+      </textMesh>
+      <defaultStyle>
+        <color>FFFFFFFF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+    <children>
+      <self itemName="Distances 2">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-1.29" y="-0.0299999956" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.175" y="0.175" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <textMesh fontName="anwb_Ee">
+          <text>34</text>
+          <MaxWidthMeters>0</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+  </children>
+  <children>
+    <self itemName="HwyNumberPlate">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="-0.8899999" y="0.399999917" z="0" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="0.45" y="0.45" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <imageMesh atlas="MaestroDutchSigns:Backgrounds">
         <mesh></mesh>
-        <image>White Background</image>
+        <image>Numberplate Highway</image>
       </imageMesh>
       <defaultStyle>
         <color>FFFFFFFF</color>
@@ -55,22 +171,22 @@
       </defaultStyle>
     </self>
     <children>
-      <self itemName="Destination">
+      <self itemName="HighwayNumber">
         <transform alignment="Left" arrayAxisOrder="XYZ">
           <offsetPosition x="0" y="0" z="0" />
           <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.25" y="0.25" z="1" />
+          <scale x="0.2025" y="0.225" z="1" />
           <mustDraw>1</mustDraw>
           <instanceCount>-1</instanceCount>
           <arrayInstances x="1" y="1" z="1" />
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <textMesh fontName="anwb_Ee">
-          <text>Boermark</text>
+          <text>A 44</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
         <defaultStyle>
-          <color>000000FF</color>
+          <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
           <smoothness>0</smoothness>
@@ -85,11 +201,40 @@
     </children>
   </children>
   <children>
+    <self itemName="Arrow">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="1.08" y="0.399999976" z="0" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="0.45" y="0.45" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <imageMesh atlas="MaestroDutchSigns:Arrows">
+        <mesh></mesh>
+        <image>Tiny</image>
+      </imageMesh>
+      <defaultStyle>
+        <color>FFFFFFFF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+  </children>
+  <children>
     <self itemName="Backside">
       <transform alignment="Left" arrayAxisOrder="XYZ">
         <offsetPosition x="0" y="0" z="-0.01" />
         <offsetRotation x="-0" y="0" z="0" />
-        <scale x="2.95" y="2.45" z="1" />
+        <scale x="3" y="1.5" z="1" />
         <mustDraw>1</mustDraw>
         <instanceCount>-1</instanceCount>
         <arrayInstances x="1" y="1" z="1" />
@@ -109,92 +254,5 @@
         <colorMask3>FFFFFF</colorMask3>
       </defaultStyle>
     </self>
-  </children>
-  <children>
-    <self itemName="Service 1">
-      <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="0.9499999" y="0" z="0" />
-        <offsetRotation x="-0" y="0" z="0" />
-        <scale x="0.75" y="0.75" z="1" />
-        <mustDraw>1</mustDraw>
-        <instanceCount>-1</instanceCount>
-        <arrayInstances x="1" y="1" z="1" />
-        <arraySpacing x="0" y="0" z="0" />
-      </transform>
-      <imageMesh atlas="MaestroDutchSigns:Symbols">
-        <mesh></mesh>
-        <image>ParkIcon</image>
-      </imageMesh>
-      <defaultStyle>
-        <color>FFFFFFFF</color>
-        <emissiveColor>FFFFFFFF</emissiveColor>
-        <metallic>0</metallic>
-        <smoothness>0</smoothness>
-        <emissiveIntensity>0</emissiveIntensity>
-        <emissiveExposureWeight>0</emissiveExposureWeight>
-        <coatStrength>0</coatStrength>
-        <colorMask1>FFFFFF</colorMask1>
-        <colorMask2>FFFFFF</colorMask2>
-        <colorMask3>FFFFFF</colorMask3>
-      </defaultStyle>
-    </self>
-    <children>
-      <self itemName="Service 2">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="-0.87" y="0" z="0" />
-          <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.75" y="0.75" z="1" />
-          <mustDraw>1</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <imageMesh atlas="MaestroDutchSigns:Symbols">
-          <mesh></mesh>
-          <image>Bistro</image>
-        </imageMesh>
-        <defaultStyle>
-          <color>FFFFFFFF</color>
-          <emissiveColor>FFFFFFFF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>0</emissiveIntensity>
-          <emissiveExposureWeight>0</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-    </children>
-    <children>
-      <self itemName="Service 3">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="-1.81999993" y="0" z="0" />
-          <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.75" y="0.75" z="1" />
-          <mustDraw>1</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <imageMesh atlas="MaestroDutchSigns:Symbols">
-          <mesh></mesh>
-          <image>Petrolstation</image>
-        </imageMesh>
-        <defaultStyle>
-          <color>FFFFFFFF</color>
-          <emissiveColor>FFFFFFFF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>0</emissiveIntensity>
-          <emissiveExposureWeight>0</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-    </children>
   </children>
 </WELayout>
