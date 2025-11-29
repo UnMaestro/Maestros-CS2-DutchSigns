@@ -3,34 +3,20 @@
 
 Hello or Hallo!  
 This is a **Write Everywhere module** that brings a collection of **Dutch traffic signs** into your game. 
-Because of the new Dutch Creator Pack I decided to publish the mod today. 
-Currently this is an **Early Access version** focusing only on **Traffic Signs**. Future updates will include **Highway Signs**, **Expressway Signs**, additional Traffic Signs and more! 
 
 ---
 
 ##  Features
-- Authentic Dutch traffic signs with realistic layouts and colors
-- Templates for easy import and customization
-- currently ~150 images
-###  Road Sign Types (currently available)
-- **Traffic Signs** – Warning, prohibition, mandatory, and many more
+- Dutch traffic signs with realistic layouts and colors
+- 100 Templates for easy import and customization
+- currently 280 images(Including Symbols, Arrows and Backgrounds)
 
- Planned for future updates:  
-- **Highway Signs** – Blue motorway signs  
-- **Expressway Signs** – Green expressway signs  
-- Additional **Traffic Signs** and templates 
-
----
-
-###  Traffic Signs
-- Includes many standard Dutch traffic signs  
-- Many signs share prefabs (e.g. triangles for warnings) → less clutter, more flexibility 
-
-- Combined signs (Will be featured later update's)
-- Customizable variables like:  
-  - Distances
-  - Height/width restrictions
-  - Arrow directions
+###  Road Sign Types
+- **Traffic Signs** - Warning, prohibition, mandatory, and many more
+- **Highway Signs** - Exit, Cloverleaf, Advance Signs and many more
+- **Mainroad Signs** - Detour, Junction Signs, Signpost Arrows
+- **Bicycle Road Signs** - Green(Cycle only) and Red(Cycle-Mopeds) Signs and Signpost Arrows
+- **Misc** - Mostly Easy Import Plates and the EU Border Sign
 
 ---
 
@@ -77,18 +63,11 @@ For copyright reasons, fonts are **not included** in this mod and must be downlo
 6. Press the `+` Button and choose the `.ttf`.
 ---
 
-##  Notes
-- Inspired by the official Dutch road sign system (Rijkswaterstaat, ANWB) and Wikipedia
-- Early Access – more content will be added step by step  
-- Performance impact is minimal (tested on mid-range systems)  
-
----
-
 ##  Check out my other Signs/Overrider Modules
 ### Serie A
 - [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)
 - [German OVerrider](https://mods.paradoxplaza.com/mods/123745/Windows)
-- [Dutch Overrider]()
+- [Dutch Overrider](https://mods.paradoxplaza.com/mods/125249/Windows)
 - [Italian Signs](https://mods.paradoxplaza.com/mods/121615/Windows)
 - [Italian Overrider](https://mods.paradoxplaza.com/mods/124269/Windows)
 

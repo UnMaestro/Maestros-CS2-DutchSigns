@@ -21,7 +21,7 @@
     <Version>1.0.0</Version>
     <GameVersion>1.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
-    <DisplayName>Dutch Signs (WE-Module)</DisplayName>
+    <DisplayName>Dutch Signs v1.0(WE-Module)</DisplayName>
     <ShortDescription>A Write-Everywhere Module that give the ability to place, create or edit Dutch Signs</ShortDescription>
     <ForumLink>https://forum.paradoxplaza.com/forum/threads/dutch-signs-we-module-early-access.1861156</ForumLink>
     <GitHubLink>https://github.com/UnMaestro/Maestros-CS2-DutchSigns</GitHubLink>
