@@ -1,22 +1,18 @@
 # Dutch Signs WE-Module for Cities: Skylines II
-## SERIE A PACK
-
 Hello or Hallo!  
-This is a **Write Everywhere module** that brings a collection of **Dutch traffic signs** into your game. 
+This is a **Write Everywhere module** that brings a collection of **Dutch signs** into your game. 
 
 ---
 
 ##  Features
-- Dutch traffic signs with realistic layouts and colors
 - 100 Templates for easy import and customization
-- currently 280 images(Including Symbols, Arrows and Backgrounds)
-
-###  Road Sign Types
-- **Traffic Signs** - Warning, prohibition, mandatory, and many more
-- **Highway Signs** - Exit, Cloverleaf, Advance Signs and many more
-- **Mainroad Signs** - Detour, Junction Signs, Signpost Arrows
-- **Bicycle Road Signs** - Green(Cycle only) and Red(Cycle-Mopeds) Signs and Signpost Arrows
-- **Misc** - Mostly Easy Import Plates and the EU Border Sign
+- currently 440 images(Including Symbols, Arrows and Backgrounds)
+- Mutliple Types:
+	- **Traffic Signs** - Warning, prohibition, mandatory, and many more
+	- **Highway Signs** - Exit, Cloverleaf, Advance Signs and many more
+	- **Mainroad Signs** - Detour, Junction Signs, Signpost Arrows
+	- **Bicycle Road Signs** - Green(Cycle only) and Red(Cycle-Mopeds) Signs and Signpost Arrows
+	- **Misc** - Mostly Easy Import Plates and the EU Border Sign
 
 ---
 
@@ -24,18 +20,21 @@ This is a **Write Everywhere module** that brings a collection of **Dutch traffi
 
 1. Install the **Requirements** needed for this mod.
 3. Place a matching road structure in-game.  
-4. Open the **Write Everywhere** menu (Default: `CTRL + Shift + W`).
+4. Open **Write Everywhere** Selector (Default: `CTRL + Shift + W`).
 4. Click on the structure you wanna edit.  
+5. Click on the Folder Icon(*Import/load...*)
 5. Click on `Import layout from xml at root...`
 6. Click on the puzzle-piece(*Templates from mods*)
-7. Search for the Dutch Signs Mod.
+7. Click on `"MaestroDutchSigns"`
 8. Choose the desired template and customize it. 
 
 ### Customize and Save Signs
 - Select the root object → **Save & Export as XML**  
 - Templates can be reused in the same city or other saves.  
 - All templates are stored locally.
-- These don't need the step "Templates from mods"
+	- These don't need the step "Templates from mods"
+
+[WriteEverywhere Video Tutorial by **chaosfun**](https://youtu.be/3tMR103ZeXA?si=8jKUmQMBtP6YZcpj) is also a good help.
 
 ---
 
@@ -49,39 +48,30 @@ This is a **Write Everywhere module** that brings a collection of **Dutch traffi
 This mod uses the Dutch standard typeface **ANWB-Ee** and **ANWB Regular**  
 For copyright reasons, fonts are **not included** in this mod and must be downloaded and installed manually.
 
-##### You can find them [here](https://www.maisfontes.com/anwb-uu-regular.font)  
+#### You can find them [here](https://www.maisfontes.com/anwb-uu-regular.font)  
 
 
 ####  How to install fonts
 1. Download the required fonts from the Links. (**Fileformat needs to be .ttf**)
 2. Go to your local CS:2 mods folder:  
-`\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts`
+`\Cities Skylines II\ModsData\.Klyte45Mods\WriteEverywhere\fonts`
 *(if the `fonts` folder does not exist, create it manually)*  
 3. Place the `.ttf` files inside this folder. 
 4. Start the game and load your city.  
 5. Press the W Icon on the Top-Left. Go to **City Fonts**.  
 6. Press the `+` Button and choose the `.ttf`.
+
 ---
 
-##  Check out my other Signs/Overrider Modules
-### Serie A
-- [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)
-- [German OVerrider](https://mods.paradoxplaza.com/mods/123745/Windows)
-- [Dutch Overrider](https://mods.paradoxplaza.com/mods/125249/Windows)
-- [Italian Signs](https://mods.paradoxplaza.com/mods/121615/Windows)
-- [Italian Overrider](https://mods.paradoxplaza.com/mods/124269/Windows)
+###  Check out the corrosponding Vanilla Sign Overrider or other Packs
+[Dutch Vanilla Overrider](https://mods.paradoxplaza.com/mods/125249/Windows)
+[Other Packs](https://mods.paradoxplaza.com/authors/UnMaestro)
 
-### Serie B
-- [Swiss Signs](https://mods.paradoxplaza.com/mods/124288/Windows)
-- [Swiss Overrider](https://mods.paradoxplaza.com/mods/123563/Windows)
-- [French Signs](https://mods.paradoxplaza.com/mods/124289/Windows)
-- [French Overrider](https://mods.paradoxplaza.com/mods/123893/Windows)
-- [Spanish Signs](https://mods.paradoxplaza.com/mods/124290/Windows)
-- [Spanish Overrider]()
-
+---
 
 ##  Special Thanks
 - To Klyte45 for the WriteEverywhere Mod and free Template to use.
 - To lolok for the highway structures used in this mod.
+- chaosfun for his WriteEverywhere Video Tutorials
 
 ## Enjoy & share your feedback!  

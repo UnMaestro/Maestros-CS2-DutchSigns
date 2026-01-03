@@ -73,7 +73,7 @@
           </transform>
           <imageMesh atlas="MaestroDutchSigns:Symbols">
             <mesh></mesh>
-            <image>Petrolstation</image>
+            <image>Station Fuel</image>
           </imageMesh>
           <defaultStyle>
             <color>FFFFFFFF</color>
@@ -149,7 +149,7 @@
           </transform>
           <imageMesh atlas="MaestroDutchSigns:Symbols">
             <mesh></mesh>
-            <image>Bistro</image>
+            <image>Service Bistro</image>
           </imageMesh>
           <defaultStyle>
             <color>FFFFFFFF</color>
@@ -228,7 +228,7 @@
       <self itemName="Backside">
         <transform alignment="Left" arrayAxisOrder="XYZ">
           <offsetPosition x="0" y="0" z="-0.005" />
-          <offsetRotation x="-0" y="0" z="0" />
+          <offsetRotation x="-0" y="180" z="0" />
           <scale x="2" y="2" z="-1" />
           <mustDraw>1</mustDraw>
           <instanceCount>-1</instanceCount>
@@ -305,7 +305,7 @@
           </transform>
           <imageMesh atlas="MaestroDutchSigns:Symbols">
             <mesh></mesh>
-            <image>Green Cross</image>
+            <image>Leisure Camper Service</image>
           </imageMesh>
           <defaultStyle>
             <color>FFFFFFFF</color>
@@ -334,7 +334,7 @@
           </transform>
           <imageMesh atlas="MaestroDutchSigns:Symbols">
             <mesh></mesh>
-            <image>Park</image>
+            <image>Service Snackbar</image>
           </imageMesh>
           <defaultStyle>
             <color>FFFFFFFF</color>
@@ -363,7 +363,7 @@
           </transform>
           <imageMesh atlas="MaestroDutchSigns:Symbols">
             <mesh></mesh>
-            <image>Parking</image>
+            <image>Station Electro</image>
           </imageMesh>
           <defaultStyle>
             <color>FFFFFFFF</color>
@@ -384,7 +384,7 @@
       <self itemName="Backside">
         <transform alignment="Left" arrayAxisOrder="XYZ">
           <offsetPosition x="0" y="0" z="-0.005" />
-          <offsetRotation x="-0" y="0" z="0" />
+          <offsetRotation x="-0" y="180" z="0" />
           <scale x="2" y="0.75" z="-1" />
           <mustDraw>1</mustDraw>
           <instanceCount>-1</instanceCount>
